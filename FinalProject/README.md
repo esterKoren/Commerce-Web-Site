@@ -51,7 +51,7 @@ A full-stack e-commerce web application built with React, Vite, Redux, Material 
 - `index.html` - Main HTML file
 
 ## Author
-- Developed by Ester Koren as part of the Yaniv Arad React course.
+- Developed by Ester Koren 
 
 ---
 
